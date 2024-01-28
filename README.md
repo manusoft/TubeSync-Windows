@@ -10,6 +10,11 @@
 
 TubeSync is a powerful YouTube download manager built with WinUI 3. It allows you to download multiple YouTube videos simultaneously, manage your download list, remove completed downloads, open the download folder, and enjoy a seamless experience with dark and night modes.
 
+## Releases
+
+* [TubeSync-v1.2.1](https://github.com/manusoft/TubeSync-Windows/releases/tag/v1.2.1)
+* [TubeSync-v1.2.0](https://github.com/manusoft/TubeSync-Windows/releases/tag/v1.2.0)
+
 ## Features
 
 ### Multiple File Download

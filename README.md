@@ -38,8 +38,13 @@ Enjoy a comfortable viewing experience with dark and night modes, reducing eye s
 ### Prerequisites
 - Windows 10 or later
 
+## Installation
+- Download Installtion file from [Realese](https://github.com/manusoft/TubeSync-Windows/releases)
+- Extract zip file.
+- Open certificate file and install it in your system if not installed.
+- Open Installation file and Install.
+    
 ## Usage
-
 1. Paste a YouTube video link into the input field.
 2. Analyze the video link to get available download qualities.
 3. Choose the desired quality and click "Add Download."

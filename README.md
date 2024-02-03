@@ -19,32 +19,32 @@ TubeSync is a powerful YouTube download manager built with WinUI 3. It allows yo
 ## Features
 
 ### Multiple File Download
-Download multiple YouTube videos concurrently, saving your time and increasing efficiency.
+- Download multiple YouTube videos concurrently, saving your time and increasing efficiency.
 
 ### Save List of Downloads
-TubeSync keeps track of your download history, allowing you to manage and organize your downloaded videos.
+- TubeSync keeps track of your download history, allowing you to manage and organize your downloaded videos.
 
 ### Remove Downloads
-Easily remove completed downloads from your list, keeping your download history clean and organized.
+- Easily remove completed downloads from your list, keeping your download history clean and organized.
 
 ### Open Folder
-Quickly access the folder where your downloaded videos are stored, making it easy to find and share your files.
+- Quickly access the folder where your downloaded videos are stored, making it easy to find and share your files.
 
 ### Dark and Night Modes
-Enjoy a comfortable viewing experience with dark and night modes, reducing eye strain during nighttime usage.
+- Enjoy a comfortable viewing experience with dark and night modes, reducing eye strain during nighttime usage.
 
 ## Getting Started
 
 ### Prerequisites
 - Windows 10 or later
 
-## Installation
+### Installation
 - Download Installtion file from [Realese](https://github.com/manusoft/TubeSync-Windows/releases)
 - Extract zip file.
 - Open certificate file and install it in your system if not installed.
 - Open Installation file and Install.
     
-## Usage
+### Usage
 1. Paste a YouTube video link into the input field.
 2. Analyze the video link to get available download qualities.
 3. Choose the desired quality and click "Add Download."

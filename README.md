@@ -3,7 +3,7 @@
 
 ![1](https://github.com/manusoft/TubeSync-Windows/assets/83714923/4ac35381-92f2-4814-b9b5-c30897f5857d)
 ![2](https://github.com/manusoft/TubeSync-Windows/assets/83714923/2097fa94-2ded-41d1-a718-47210b89524b)
-![3](https://github.com/manusoft/TubeSync-Windows/assets/83714923/a6cc7bf6-9872-4aaf-80ef-7377ecb4af00)
+![3](https://github.com/manusoft/TubeSync-Windows/assets/83714923/12d0c62f-ae39-421d-8f47-a442597f52fc)
 ![4](https://github.com/manusoft/TubeSync-Windows/assets/83714923/cbe882f0-4330-4194-8fda-0bf7b378c9ab)
 ![5](https://github.com/manusoft/TubeSync-Windows/assets/83714923/20e81a0a-12d8-4f0f-8b33-01aa06643e37)
 

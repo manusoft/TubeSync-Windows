@@ -12,9 +12,7 @@ TubeSync is a powerful YouTube download manager built with WinUI 3. It allows yo
 
 ## Releases
 
-* [TubeSync-v1.3.0](https://github.com/manusoft/TubeSync-Windows/releases/tag/v1.3.0) **🎉**
-* [TubeSync-v1.2.1](https://github.com/manusoft/TubeSync-Windows/releases/tag/v1.2.1)
-* [TubeSync-v1.2.0](https://github.com/manusoft/TubeSync-Windows/releases/tag/v1.2.0)
+* [TubeSync-v1.0.0](https://github.com/manusoft/TubeSync-Windows/releases/tag/v1.0.0) **🎉**
 
 ## Features
 

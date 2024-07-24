@@ -1,17 +1,17 @@
 # TubeSync - YouTube Download Manager for Windows
 <p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=manusoft.TubeSync-Windows" alt="visitor" style="max-width: 100%;"></p>
 
-![1](https://github.com/manusoft/TubeSync-Windows/assets/83714923/4ac35381-92f2-4814-b9b5-c30897f5857d)
-![2](https://github.com/manusoft/TubeSync-Windows/assets/83714923/2097fa94-2ded-41d1-a718-47210b89524b)
-![3](https://github.com/manusoft/TubeSync-Windows/assets/83714923/12d0c62f-ae39-421d-8f47-a442597f52fc)
-![4](https://github.com/manusoft/TubeSync-Windows/assets/83714923/cbe882f0-4330-4194-8fda-0bf7b378c9ab)
-![5](https://github.com/manusoft/TubeSync-Windows/assets/83714923/20e81a0a-12d8-4f0f-8b33-01aa06643e37)
+![1](https://github.com/user-attachments/assets/735adc2f-9957-4168-8a79-44a159abcf3b)
+![2](https://github.com/user-attachments/assets/1367b2ec-d3d8-48d2-bf5a-bfd09a707e02)
+![3](https://github.com/user-attachments/assets/b3274bc6-29d2-4c39-948a-c1093362977d)
+![4](https://github.com/user-attachments/assets/1aa4eb03-b9b5-4a01-bf4f-587b2f80ff27)
+![5](https://github.com/user-attachments/assets/6d492a96-d37f-4b96-9ecf-fe9dd13279e1)
 
 TubeSync is a powerful YouTube download manager built with WinUI 3. It allows you to download multiple YouTube videos simultaneously, manage your download list, remove completed downloads, open the download folder, and enjoy a seamless experience with dark and night modes.
 
 ## Releases
 
-* [TubeSync-v1.0.0](https://github.com/manusoft/TubeSync-Windows/releases/tag/v1.0.0) **🎉**
+* [TubeSync-v1.0.1](https://github.com/manusoft/TubeSync-Windows/releases/tag/v1.0.1) **🎉**
 
 ## Features
 
